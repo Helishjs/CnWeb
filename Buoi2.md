@@ -1,5 +1,5 @@
 A.	Code đã hoàn thiện: Dán (paste) toàn bộ code của tệp chapter2.php mà bạn đã hoàn thiện. 
-<!DOCTYPE html> 
+<!-- <!DOCTYPE html> 
 <html lang="vi"> 
 <head> 
     <meta charset="UTF-8"> 
@@ -39,7 +39,7 @@ A.	Code đã hoàn thiện: Dán (paste) toàn bộ code của tệp chapter2.ph
     ?> 
  
 </body> 
-</html>
+</html> -->
 
 
 ![Ảnh minh hoạ](./imgs/buoi2/Chuong2_A.png)
