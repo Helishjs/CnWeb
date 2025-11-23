@@ -32,6 +32,7 @@ if (isset($_POST['username']) && isset($_POST['password'])) {
     exit;
 }
 ?>
+![Ảnh minh hoạ](./imgs/buoi3/handle_login.png)
 
 •	welcome.php 
 <?php
@@ -58,6 +59,7 @@ if (isset($_SESSION['username_login'])) {
     exit;
 }
 ?>
+![Ảnh minh hoạ](./imgs/buoi3/welcome_login.png)
 
 B.	Ảnh chụp màn hình Kết quả (Trình duyệt Web): Chụp 01 ảnh màn hình trình duyệt hiển thị trang welcome.php sau khi bạn đăng nhập thành công (phải thấy rõ dòng chữ "Chào mừng trở lại, admin!"). 
 
